@@ -2,4 +2,4 @@ flask
 scikitlearn
 numpy
 joblib
-guicorn
+gunicorn
