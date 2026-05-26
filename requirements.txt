@@ -1,5 +1,5 @@
 flask
-scikitlearn
+scikit learn
 numpy
 joblib
 guicorn
